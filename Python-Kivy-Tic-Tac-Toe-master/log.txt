@@ -1,0 +1,2393 @@
+
+
+##################Statistics################## 
+Total Plays: 10000
+AI wins: 6626
+AI loses: 2739
+Draws: 635
+Performance: 0.66
+###################################
+
+##################Statistics################## 
+Total Plays: 20000
+AI wins: 13961
+AI loses: 4961
+Draws: 1078
+Performance: 0.70
+###################################
+
+##################Statistics################## 
+Total Plays: 30000
+AI wins: 21264
+AI loses: 7151
+Draws: 1585
+Performance: 0.71
+###################################
+
+##################Statistics################## 
+Total Plays: 40000
+AI wins: 28577
+AI loses: 9427
+Draws: 1996
+Performance: 0.71
+###################################
+
+##################Statistics################## 
+Total Plays: 50000
+AI wins: 35573
+AI loses: 12005
+Draws: 2422
+Performance: 0.71
+###################################
+
+##################Statistics################## 
+Total Plays: 60000
+AI wins: 42928
+AI loses: 14216
+Draws: 2856
+Performance: 0.72
+###################################
+
+##################Statistics################## 
+Total Plays: 70000
+AI wins: 50380
+AI loses: 16261
+Draws: 3359
+Performance: 0.72
+###################################
+
+##################Statistics################## 
+Total Plays: 80000
+AI wins: 57829
+AI loses: 18304
+Draws: 3867
+Performance: 0.72
+###################################
+
+##################Statistics################## 
+Total Plays: 90000
+AI wins: 65331
+AI loses: 20312
+Draws: 4357
+Performance: 0.73
+###################################
+
+##################Statistics################## 
+Total Plays: 100000
+AI wins: 72787
+AI loses: 22341
+Draws: 4872
+Performance: 0.73
+###################################
+
+##################Statistics################## 
+Total Plays: 110000
+AI wins: 80146
+AI loses: 24418
+Draws: 5436
+Performance: 0.73
+###################################
+
+##################Statistics################## 
+Total Plays: 120000
+AI wins: 87309
+AI loses: 26661
+Draws: 6030
+Performance: 0.73
+###################################
+
+##################Statistics################## 
+Total Plays: 130000
+AI wins: 94567
+AI loses: 28885
+Draws: 6548
+Performance: 0.73
+###################################
+
+##################Statistics################## 
+Total Plays: 140000
+AI wins: 101689
+AI loses: 31196
+Draws: 7115
+Performance: 0.73
+###################################
+
+##################Statistics################## 
+Total Plays: 150000
+AI wins: 108930
+AI loses: 33379
+Draws: 7691
+Performance: 0.73
+###################################
+
+##################Statistics################## 
+Total Plays: 160000
+AI wins: 116159
+AI loses: 35596
+Draws: 8245
+Performance: 0.73
+###################################
+
+##################Statistics################## 
+Total Plays: 170000
+AI wins: 123435
+AI loses: 37713
+Draws: 8852
+Performance: 0.73
+###################################
+
+##################Statistics################## 
+Total Plays: 180000
+AI wins: 130831
+AI loses: 39707
+Draws: 9462
+Performance: 0.73
+###################################
+
+##################Statistics################## 
+Total Plays: 190000
+AI wins: 138293
+AI loses: 41685
+Draws: 10022
+Performance: 0.73
+###################################
+
+##################Statistics################## 
+Total Plays: 200000
+AI wins: 145729
+AI loses: 43658
+Draws: 10613
+Performance: 0.73
+###################################
+
+##################Statistics################## 
+Total Plays: 500
+AI wins: 289
+AI loses: 156
+Draws: 55
+Performance: 0.58
+###################################
+
+##################Statistics################## 
+Total Plays: 1000
+AI wins: 602
+AI loses: 297
+Draws: 101
+Performance: 0.60
+###################################
+
+##################Statistics################## 
+Total Plays: 1500
+AI wins: 932
+AI loses: 433
+Draws: 135
+Performance: 0.62
+###################################
+
+##################Statistics################## 
+Total Plays: 2000
+AI wins: 1288
+AI loses: 557
+Draws: 155
+Performance: 0.64
+###################################
+
+##################Statistics################## 
+Total Plays: 2500
+AI wins: 1650
+AI loses: 674
+Draws: 176
+Performance: 0.66
+###################################
+
+##################Statistics################## 
+Total Plays: 3000
+AI wins: 2008
+AI loses: 795
+Draws: 197
+Performance: 0.67
+###################################
+
+##################Statistics################## 
+Total Plays: 3500
+AI wins: 2374
+AI loses: 912
+Draws: 214
+Performance: 0.68
+###################################
+
+##################Statistics################## 
+Total Plays: 4000
+AI wins: 2747
+AI loses: 1021
+Draws: 232
+Performance: 0.69
+###################################
+
+##################Statistics################## 
+Total Plays: 4500
+AI wins: 3116
+AI loses: 1138
+Draws: 246
+Performance: 0.69
+###################################
+
+##################Statistics################## 
+Total Plays: 5000
+AI wins: 3482
+AI loses: 1245
+Draws: 273
+Performance: 0.70
+###################################
+
+##################Statistics################## 
+Total Plays: 10000
+AI wins: 7354
+AI loses: 2171
+Draws: 475
+Performance: 0.74
+###################################
+
+##################Statistics################## 
+Total Plays: 20000
+AI wins: 14980
+AI loses: 4190
+Draws: 830
+Performance: 0.75
+###################################
+
+##################Statistics################## 
+Total Plays: 30000
+AI wins: 22692
+AI loses: 6125
+Draws: 1183
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 40000
+AI wins: 30282
+AI loses: 8200
+Draws: 1518
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 50000
+AI wins: 37977
+AI loses: 10152
+Draws: 1871
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 60000
+AI wins: 45616
+AI loses: 12178
+Draws: 2206
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 70000
+AI wins: 53335
+AI loses: 14151
+Draws: 2514
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 80000
+AI wins: 60993
+AI loses: 16177
+Draws: 2830
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 90000
+AI wins: 68663
+AI loses: 18178
+Draws: 3159
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 100000
+AI wins: 76358
+AI loses: 20113
+Draws: 3529
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 110000
+AI wins: 84026
+AI loses: 22088
+Draws: 3886
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 120000
+AI wins: 91780
+AI loses: 24014
+Draws: 4206
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 130000
+AI wins: 99385
+AI loses: 26040
+Draws: 4575
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 140000
+AI wins: 106992
+AI loses: 28115
+Draws: 4893
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 150000
+AI wins: 114578
+AI loses: 30189
+Draws: 5233
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 160000
+AI wins: 122244
+AI loses: 32180
+Draws: 5576
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 170000
+AI wins: 129903
+AI loses: 34174
+Draws: 5923
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 180000
+AI wins: 137469
+AI loses: 36212
+Draws: 6319
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 190000
+AI wins: 145067
+AI loses: 38268
+Draws: 6665
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 200000
+AI wins: 152682
+AI loses: 40323
+Draws: 6995
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 210000
+AI wins: 160359
+AI loses: 42289
+Draws: 7352
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 220000
+AI wins: 167927
+AI loses: 44353
+Draws: 7720
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 230000
+AI wins: 175459
+AI loses: 46444
+Draws: 8097
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 240000
+AI wins: 183088
+AI loses: 48526
+Draws: 8386
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 250000
+AI wins: 190642
+AI loses: 50636
+Draws: 8722
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 260000
+AI wins: 198074
+AI loses: 52799
+Draws: 9127
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 270000
+AI wins: 205599
+AI loses: 54889
+Draws: 9512
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 280000
+AI wins: 213169
+AI loses: 56964
+Draws: 9867
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 290000
+AI wins: 220712
+AI loses: 59057
+Draws: 10231
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 300000
+AI wins: 228294
+AI loses: 61088
+Draws: 10618
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 310000
+AI wins: 235909
+AI loses: 63118
+Draws: 10973
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 320000
+AI wins: 243437
+AI loses: 65232
+Draws: 11331
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 330000
+AI wins: 251005
+AI loses: 67331
+Draws: 11664
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 340000
+AI wins: 258596
+AI loses: 69377
+Draws: 12027
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 350000
+AI wins: 266075
+AI loses: 71520
+Draws: 12405
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 360000
+AI wins: 273696
+AI loses: 73559
+Draws: 12745
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 370000
+AI wins: 281316
+AI loses: 75571
+Draws: 13113
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 380000
+AI wins: 288876
+AI loses: 77614
+Draws: 13510
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 390000
+AI wins: 296408
+AI loses: 79712
+Draws: 13880
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 400000
+AI wins: 303899
+AI loses: 81865
+Draws: 14236
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 410000
+AI wins: 311364
+AI loses: 84023
+Draws: 14613
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 420000
+AI wins: 318943
+AI loses: 86031
+Draws: 15026
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 430000
+AI wins: 326573
+AI loses: 88041
+Draws: 15386
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 440000
+AI wins: 334094
+AI loses: 90148
+Draws: 15758
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 450000
+AI wins: 341578
+AI loses: 92275
+Draws: 16147
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 460000
+AI wins: 349124
+AI loses: 94378
+Draws: 16498
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 470000
+AI wins: 356687
+AI loses: 96467
+Draws: 16846
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 480000
+AI wins: 364206
+AI loses: 98565
+Draws: 17229
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 490000
+AI wins: 371889
+AI loses: 100544
+Draws: 17567
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 500000
+AI wins: 379402
+AI loses: 102673
+Draws: 17925
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 510000
+AI wins: 386913
+AI loses: 104789
+Draws: 18298
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 520000
+AI wins: 394534
+AI loses: 106838
+Draws: 18628
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 530000
+AI wins: 402079
+AI loses: 108934
+Draws: 18987
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 540000
+AI wins: 409680
+AI loses: 111025
+Draws: 19295
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 550000
+AI wins: 417273
+AI loses: 113105
+Draws: 19622
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 560000
+AI wins: 424861
+AI loses: 115158
+Draws: 19981
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 570000
+AI wins: 432382
+AI loses: 117281
+Draws: 20337
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 580000
+AI wins: 439921
+AI loses: 119385
+Draws: 20694
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 590000
+AI wins: 447486
+AI loses: 121446
+Draws: 21068
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 600000
+AI wins: 455081
+AI loses: 123497
+Draws: 21422
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 610000
+AI wins: 462660
+AI loses: 125563
+Draws: 21777
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 620000
+AI wins: 470211
+AI loses: 127657
+Draws: 22132
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 630000
+AI wins: 477882
+AI loses: 129640
+Draws: 22478
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 640000
+AI wins: 485440
+AI loses: 131737
+Draws: 22823
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 650000
+AI wins: 492998
+AI loses: 133792
+Draws: 23210
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 660000
+AI wins: 500593
+AI loses: 135854
+Draws: 23553
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 670000
+AI wins: 508123
+AI loses: 137947
+Draws: 23930
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 680000
+AI wins: 515667
+AI loses: 140044
+Draws: 24289
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 690000
+AI wins: 523243
+AI loses: 142128
+Draws: 24629
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 700000
+AI wins: 530762
+AI loses: 144210
+Draws: 25028
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 710000
+AI wins: 538270
+AI loses: 146317
+Draws: 25413
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 720000
+AI wins: 545847
+AI loses: 148348
+Draws: 25805
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 730000
+AI wins: 553385
+AI loses: 150470
+Draws: 26145
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 740000
+AI wins: 560912
+AI loses: 152584
+Draws: 26504
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 750000
+AI wins: 568569
+AI loses: 154585
+Draws: 26846
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 760000
+AI wins: 576193
+AI loses: 156595
+Draws: 27212
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 770000
+AI wins: 583700
+AI loses: 158693
+Draws: 27607
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 780000
+AI wins: 591257
+AI loses: 160804
+Draws: 27939
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 790000
+AI wins: 598843
+AI loses: 162867
+Draws: 28290
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 10000
+AI wins: 7312
+AI loses: 2295
+Draws: 393
+Performance: 0.73
+###################################
+
+##################Statistics################## 
+Total Plays: 10000
+AI wins: 7296
+AI loses: 2340
+Draws: 364
+Performance: 0.73
+###################################
+
+##################Statistics################## 
+Total Plays: 20000
+AI wins: 14884
+AI loses: 4442
+Draws: 674
+Performance: 0.74
+###################################
+
+##################Statistics################## 
+Total Plays: 30000
+AI wins: 22503
+AI loses: 6489
+Draws: 1008
+Performance: 0.75
+###################################
+
+##################Statistics################## 
+Total Plays: 40000
+AI wins: 30048
+AI loses: 8586
+Draws: 1366
+Performance: 0.75
+###################################
+
+##################Statistics################## 
+Total Plays: 50000
+AI wins: 37686
+AI loses: 10606
+Draws: 1708
+Performance: 0.75
+###################################
+
+##################Statistics################## 
+Total Plays: 60000
+AI wins: 45273
+AI loses: 12682
+Draws: 2045
+Performance: 0.75
+###################################
+
+##################Statistics################## 
+Total Plays: 70000
+AI wins: 52828
+AI loses: 14789
+Draws: 2383
+Performance: 0.75
+###################################
+
+##################Statistics################## 
+Total Plays: 80000
+AI wins: 60457
+AI loses: 16800
+Draws: 2743
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 90000
+AI wins: 68094
+AI loses: 18821
+Draws: 3085
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 100000
+AI wins: 75698
+AI loses: 20887
+Draws: 3415
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 110000
+AI wins: 83346
+AI loses: 22888
+Draws: 3766
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 120000
+AI wins: 90919
+AI loses: 24969
+Draws: 4112
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 130000
+AI wins: 98551
+AI loses: 26957
+Draws: 4492
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 140000
+AI wins: 106232
+AI loses: 28939
+Draws: 4829
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 150000
+AI wins: 113857
+AI loses: 30969
+Draws: 5174
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 160000
+AI wins: 121474
+AI loses: 33038
+Draws: 5488
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 170000
+AI wins: 128981
+AI loses: 35181
+Draws: 5838
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 180000
+AI wins: 136629
+AI loses: 37210
+Draws: 6161
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 190000
+AI wins: 144329
+AI loses: 39179
+Draws: 6492
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 200000
+AI wins: 152078
+AI loses: 41131
+Draws: 6791
+Performance: 0.76
+###################################
+
+##################Statistics################## 
+Total Plays: 100
+AI wins: 70
+AI loses: 29
+Draws: 1
+Performance: 0.69
+###################################
+
+##################Statistics################## 
+Total Plays: 200
+AI wins: 126
+AI loses: 66
+Draws: 8
+Performance: 0.63
+###################################
+
+##################Statistics################## 
+Total Plays: 1000
+AI wins: 521
+AI loses: 405
+Draws: 74
+Performance: 0.52
+###################################
+
+##################Statistics################## 
+Total Plays: 2000
+AI wins: 951
+AI loses: 898
+Draws: 151
+Performance: 0.48
+###################################
+
+##################Statistics################## 
+Total Plays: 3000
+AI wins: 1384
+AI loses: 1380
+Draws: 236
+Performance: 0.46
+###################################
+
+##################Statistics################## 
+Total Plays: 4000
+AI wins: 1842
+AI loses: 1846
+Draws: 312
+Performance: 0.46
+###################################
+
+##################Statistics################## 
+Total Plays: 5000
+AI wins: 2284
+AI loses: 2330
+Draws: 386
+Performance: 0.46
+###################################
+
+##################Statistics################## 
+Total Plays: 6000
+AI wins: 2721
+AI loses: 2814
+Draws: 465
+Performance: 0.45
+###################################
+
+##################Statistics################## 
+Total Plays: 7000
+AI wins: 3149
+AI loses: 3301
+Draws: 550
+Performance: 0.45
+###################################
+
+##################Statistics################## 
+Total Plays: 1000
+AI wins: 488
+AI loses: 423
+Draws: 89
+Performance: 0.49
+###################################
+
+##################Statistics################## 
+Total Plays: 2000
+AI wins: 958
+AI loses: 880
+Draws: 162
+Performance: 0.48
+###################################
+
+##################Statistics################## 
+Total Plays: 3000
+AI wins: 1420
+AI loses: 1337
+Draws: 243
+Performance: 0.47
+###################################
+
+##################Statistics################## 
+Total Plays: 4000
+AI wins: 1889
+AI loses: 1780
+Draws: 331
+Performance: 0.47
+###################################
+
+##################Statistics################## 
+Total Plays: 5000
+AI wins: 2343
+AI loses: 2241
+Draws: 416
+Performance: 0.47
+###################################
+
+##################Statistics################## 
+Total Plays: 6000
+AI wins: 2763
+AI loses: 2728
+Draws: 509
+Performance: 0.46
+###################################
+
+##################Statistics################## 
+Total Plays: 7000
+AI wins: 3193
+AI loses: 3205
+Draws: 602
+Performance: 0.46
+###################################
+
+##################Statistics################## 
+Total Plays: 8000
+AI wins: 3609
+AI loses: 3684
+Draws: 707
+Performance: 0.45
+###################################
+
+##################Statistics################## 
+Total Plays: 9000
+AI wins: 4050
+AI loses: 4144
+Draws: 806
+Performance: 0.45
+###################################
+
+##################Statistics################## 
+Total Plays: 10000
+AI wins: 4487
+AI loses: 4631
+Draws: 882
+Performance: 0.45
+###################################
+
+##################Statistics################## 
+Total Plays: 11000
+AI wins: 4904
+AI loses: 5111
+Draws: 985
+Performance: 0.45
+###################################
+
+##################Statistics################## 
+Total Plays: 12000
+AI wins: 5325
+AI loses: 5594
+Draws: 1081
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 13000
+AI wins: 5745
+AI loses: 6092
+Draws: 1163
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 14000
+AI wins: 6160
+AI loses: 6584
+Draws: 1256
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 15000
+AI wins: 6583
+AI loses: 7059
+Draws: 1358
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 16000
+AI wins: 7018
+AI loses: 7527
+Draws: 1455
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 17000
+AI wins: 7446
+AI loses: 7995
+Draws: 1559
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 18000
+AI wins: 7879
+AI loses: 8451
+Draws: 1670
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 19000
+AI wins: 8304
+AI loses: 8919
+Draws: 1777
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 20000
+AI wins: 8730
+AI loses: 9399
+Draws: 1871
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 21000
+AI wins: 9165
+AI loses: 9857
+Draws: 1978
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 22000
+AI wins: 9592
+AI loses: 10334
+Draws: 2074
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 23000
+AI wins: 10032
+AI loses: 10789
+Draws: 2179
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 24000
+AI wins: 10468
+AI loses: 11265
+Draws: 2267
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 25000
+AI wins: 10893
+AI loses: 11737
+Draws: 2370
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 26000
+AI wins: 11335
+AI loses: 12186
+Draws: 2479
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 27000
+AI wins: 11750
+AI loses: 12678
+Draws: 2572
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 28000
+AI wins: 12178
+AI loses: 13144
+Draws: 2678
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 29000
+AI wins: 12626
+AI loses: 13606
+Draws: 2768
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 30000
+AI wins: 13059
+AI loses: 14077
+Draws: 2864
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 31000
+AI wins: 13478
+AI loses: 14544
+Draws: 2978
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 32000
+AI wins: 13897
+AI loses: 15008
+Draws: 3095
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 33000
+AI wins: 14328
+AI loses: 15465
+Draws: 3207
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 34000
+AI wins: 14784
+AI loses: 15918
+Draws: 3298
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 35000
+AI wins: 15211
+AI loses: 16377
+Draws: 3412
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 36000
+AI wins: 15642
+AI loses: 16844
+Draws: 3514
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 37000
+AI wins: 16089
+AI loses: 17305
+Draws: 3606
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 38000
+AI wins: 16511
+AI loses: 17766
+Draws: 3723
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 1000
+AI wins: 448
+AI loses: 439
+Draws: 113
+Performance: 0.45
+###################################
+
+##################Statistics################## 
+Total Plays: 2000
+AI wins: 876
+AI loses: 922
+Draws: 202
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 3000
+AI wins: 1294
+AI loses: 1428
+Draws: 278
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 4000
+AI wins: 1708
+AI loses: 1935
+Draws: 357
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 5000
+AI wins: 2131
+AI loses: 2423
+Draws: 446
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 6000
+AI wins: 2556
+AI loses: 2920
+Draws: 524
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 7000
+AI wins: 2975
+AI loses: 3412
+Draws: 613
+Performance: 0.42
+###################################
+
+##################Statistics################## 
+Total Plays: 8000
+AI wins: 3408
+AI loses: 3905
+Draws: 687
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 9000
+AI wins: 3828
+AI loses: 4392
+Draws: 780
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 10000
+AI wins: 4255
+AI loses: 4885
+Draws: 860
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 11000
+AI wins: 4705
+AI loses: 5368
+Draws: 927
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 12000
+AI wins: 5156
+AI loses: 5830
+Draws: 1014
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 13000
+AI wins: 5599
+AI loses: 6302
+Draws: 1099
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 14000
+AI wins: 6040
+AI loses: 6779
+Draws: 1181
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 15000
+AI wins: 6470
+AI loses: 7279
+Draws: 1251
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 16000
+AI wins: 6912
+AI loses: 7756
+Draws: 1332
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 17000
+AI wins: 7340
+AI loses: 8230
+Draws: 1430
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 18000
+AI wins: 7784
+AI loses: 8693
+Draws: 1523
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 19000
+AI wins: 8230
+AI loses: 9169
+Draws: 1601
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 20000
+AI wins: 8664
+AI loses: 9659
+Draws: 1677
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 21000
+AI wins: 9104
+AI loses: 10128
+Draws: 1768
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 22000
+AI wins: 9557
+AI loses: 10589
+Draws: 1854
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 23000
+AI wins: 9964
+AI loses: 11075
+Draws: 1961
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 24000
+AI wins: 10399
+AI loses: 11543
+Draws: 2058
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 25000
+AI wins: 10862
+AI loses: 11999
+Draws: 2139
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 26000
+AI wins: 11307
+AI loses: 12473
+Draws: 2220
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 27000
+AI wins: 11737
+AI loses: 12955
+Draws: 2308
+Performance: 0.43
+###################################
+
+##################Statistics################## 
+Total Plays: 28000
+AI wins: 12200
+AI loses: 13409
+Draws: 2391
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 29000
+AI wins: 12650
+AI loses: 13868
+Draws: 2482
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 30000
+AI wins: 13103
+AI loses: 14318
+Draws: 2579
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 31000
+AI wins: 13543
+AI loses: 14782
+Draws: 2675
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 32000
+AI wins: 13994
+AI loses: 15225
+Draws: 2781
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 33000
+AI wins: 14411
+AI loses: 15704
+Draws: 2885
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 34000
+AI wins: 14857
+AI loses: 16164
+Draws: 2979
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 35000
+AI wins: 15322
+AI loses: 16611
+Draws: 3067
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 36000
+AI wins: 15762
+AI loses: 17081
+Draws: 3157
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 37000
+AI wins: 16192
+AI loses: 17540
+Draws: 3268
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 38000
+AI wins: 16636
+AI loses: 18005
+Draws: 3359
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 39000
+AI wins: 17067
+AI loses: 18480
+Draws: 3453
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 40000
+AI wins: 17518
+AI loses: 18954
+Draws: 3528
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 41000
+AI wins: 17973
+AI loses: 19416
+Draws: 3611
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 42000
+AI wins: 18400
+AI loses: 19892
+Draws: 3708
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 43000
+AI wins: 18850
+AI loses: 20358
+Draws: 3792
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 44000
+AI wins: 19283
+AI loses: 20820
+Draws: 3897
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 45000
+AI wins: 19732
+AI loses: 21275
+Draws: 3993
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 46000
+AI wins: 20181
+AI loses: 21741
+Draws: 4078
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 47000
+AI wins: 20632
+AI loses: 22209
+Draws: 4159
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 48000
+AI wins: 21097
+AI loses: 22650
+Draws: 4253
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 49000
+AI wins: 21514
+AI loses: 23132
+Draws: 4354
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 50000
+AI wins: 21953
+AI loses: 23591
+Draws: 4456
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 51000
+AI wins: 22368
+AI loses: 24075
+Draws: 4557
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 52000
+AI wins: 22812
+AI loses: 24534
+Draws: 4654
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 53000
+AI wins: 23267
+AI loses: 24984
+Draws: 4749
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 54000
+AI wins: 23714
+AI loses: 25430
+Draws: 4856
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 55000
+AI wins: 24171
+AI loses: 25877
+Draws: 4952
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 56000
+AI wins: 24627
+AI loses: 26322
+Draws: 5051
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 57000
+AI wins: 25050
+AI loses: 26811
+Draws: 5139
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 58000
+AI wins: 25491
+AI loses: 27266
+Draws: 5243
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 59000
+AI wins: 25939
+AI loses: 27728
+Draws: 5333
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 60000
+AI wins: 26390
+AI loses: 28180
+Draws: 5430
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 61000
+AI wins: 26819
+AI loses: 28644
+Draws: 5537
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 62000
+AI wins: 27266
+AI loses: 29094
+Draws: 5640
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 63000
+AI wins: 27722
+AI loses: 29545
+Draws: 5733
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 64000
+AI wins: 28158
+AI loses: 29999
+Draws: 5843
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 65000
+AI wins: 28608
+AI loses: 30440
+Draws: 5952
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 66000
+AI wins: 29076
+AI loses: 30871
+Draws: 6053
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 67000
+AI wins: 29526
+AI loses: 31326
+Draws: 6148
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 68000
+AI wins: 29983
+AI loses: 31767
+Draws: 6250
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 69000
+AI wins: 30411
+AI loses: 32226
+Draws: 6363
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 70000
+AI wins: 30832
+AI loses: 32701
+Draws: 6467
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 71000
+AI wins: 31265
+AI loses: 33182
+Draws: 6553
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 72000
+AI wins: 31692
+AI loses: 33631
+Draws: 6677
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 73000
+AI wins: 32117
+AI loses: 34105
+Draws: 6778
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 74000
+AI wins: 32573
+AI loses: 34563
+Draws: 6864
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 75000
+AI wins: 33023
+AI loses: 35020
+Draws: 6957
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 76000
+AI wins: 33457
+AI loses: 35481
+Draws: 7062
+Performance: 0.44
+###################################
+
+##################Statistics################## 
+Total Plays: 10000
+AI wins: 7274
+AI loses: 2293
+Draws: 433
+Performance: 0.73
+###################################
+
+##################Statistics################## 
+Total Plays: 1000
+AI wins: 518
+AI loses: 396
+Draws: 86
+Performance: 0.52
+###################################
+
+##################Statistics################## 
+Total Plays: 2000
+AI wins: 975
+AI loses: 859
+Draws: 166
+Performance: 0.49
+###################################
+
+##################Statistics################## 
+Total Plays: 3000
+AI wins: 1395
+AI loses: 1352
+Draws: 253
+Performance: 0.46
+###################################
+
+##################Statistics################## 
+Total Plays: 4000
+AI wins: 1829
+AI loses: 1834
+Draws: 337
+Performance: 0.46
+###################################
+
+##################Statistics################## 
+Total Plays: 1000
+AI wins: 471
+AI loses: 415
+Draws: 114
+Performance: 0.47
+###################################
+
+##################Statistics################## 
+Total Plays: 2000
+AI wins: 918
+AI loses: 877
+Draws: 205
+Performance: 0.46
+###################################
+
+##################Statistics################## 
+Total Plays: 1000
+AI wins: 464
+AI loses: 430
+Draws: 106
+Performance: 0.46
+###################################
+
+##################Statistics################## 
+Total Plays: 1000
+AI wins: 422
+AI loses: 447
+Draws: 131
+Performance: 0.42
+###################################
+
+##################Statistics################## 
+Total Plays: 2000
+AI wins: 848
+AI loses: 891
+Draws: 261
+Performance: 0.42
+###################################
+
+##################Statistics################## 
+Total Plays: 3000
+AI wins: 1264
+AI loses: 1362
+Draws: 374
+Performance: 0.42
+###################################
+
+##################Statistics################## 
+Total Plays: 4000
+AI wins: 1677
+AI loses: 1832
+Draws: 491
+Performance: 0.42
+###################################
+
+##################Statistics################## 
+Total Plays: 5000
+AI wins: 2112
+AI loses: 2298
+Draws: 590
+Performance: 0.42
+###################################
+
+##################Statistics################## 
+Total Plays: 6000
+AI wins: 2544
+AI loses: 2745
+Draws: 711
+Performance: 0.42
+###################################
+
+##################Statistics################## 
+Total Plays: 10000
+AI wins: 7243
+AI loses: 2303
+Draws: 454
+Performance: 0.72
+###################################
+
+##################Statistics################## 
+Total Plays: 20000
+AI wins: 15000
+AI loses: 4208
+Draws: 792
+Performance: 0.75
+###################################
+
+##################Statistics################## 
+Total Plays: 30000
+AI wins: 22647
+AI loses: 6220
+Draws: 1133
+Performance: 0.75
+###################################
+
+##################Statistics################## 
+Total Plays: 40000
+AI wins: 30184
+AI loses: 8343
+Draws: 1473
+Performance: 0.75
+###################################
+
+##################Statistics################## 
+Total Plays: 10000
+AI wins: 5259
+AI loses: 3766
+Draws: 975
+Performance: 0.53
+###################################
+
+##################Statistics################## 
+Total Plays: 20000
+AI wins: 10779
+AI loses: 7319
+Draws: 1902
+Performance: 0.54
+###################################
+
+##################Statistics################## 
+Total Plays: 30000
+AI wins: 16402
+AI loses: 10844
+Draws: 2754
+Performance: 0.55
+###################################
+
+##################Statistics################## 
+Total Plays: 40000
+AI wins: 22022
+AI loses: 14319
+Draws: 3659
+Performance: 0.55
+###################################
+
+##################Statistics################## 
+Total Plays: 50000
+AI wins: 27638
+AI loses: 17842
+Draws: 4520
+Performance: 0.55
+###################################
+
+##################Statistics################## 
+Total Plays: 60000
+AI wins: 33269
+AI loses: 21361
+Draws: 5370
+Performance: 0.55
+###################################
+
+##################Statistics################## 
+Total Plays: 10000
+AI wins: 5490
+AI loses: 3546
+Draws: 964
+Performance: 0.55
+###################################
+
+##################Statistics################## 
+Total Plays: 20000
+AI wins: 11103
+AI loses: 7043
+Draws: 1854
+Performance: 0.56
+###################################
+
+##################Statistics################## 
+Total Plays: 30000
+AI wins: 16793
+AI loses: 10473
+Draws: 2734
+Performance: 0.56
+###################################
+
+##################Statistics################## 
+Total Plays: 40000
+AI wins: 22437
+AI loses: 13954
+Draws: 3609
+Performance: 0.56
+###################################
+
+##################Statistics################## 
+Total Plays: 50000
+AI wins: 28218
+AI loses: 17340
+Draws: 4442
+Performance: 0.56
+###################################
+
+##################Statistics################## 
+Total Plays: 60000
+AI wins: 33943
+AI loses: 20790
+Draws: 5267
+Performance: 0.57
+###################################
+
+##################Statistics################## 
+Total Plays: 70000
+AI wins: 39586
+AI loses: 24284
+Draws: 6130
+Performance: 0.57
+###################################
+
+##################Statistics################## 
+Total Plays: 80000
+AI wins: 45331
+AI loses: 27683
+Draws: 6986
+Performance: 0.57
+###################################
+
+##################Statistics################## 
+Total Plays: 10000
+AI wins: 5283
+AI loses: 3707
+Draws: 1010
+Performance: 0.53
+###################################
+
+##################Statistics################## 
+Total Plays: 20000
+AI wins: 10827
+AI loses: 7288
+Draws: 1885
+Performance: 0.54
+###################################
+
+##################Statistics################## 
+Total Plays: 10000
+AI wins: 5497
+AI loses: 3604
+Draws: 899
+Performance: 0.55
+###################################
+
+##################Statistics################## 
+Total Plays: 20000
+AI wins: 11196
+AI loses: 7060
+Draws: 1744
+Performance: 0.56
+###################################
+
+##################Statistics################## 
+Total Plays: 10000
+AI wins: 5435
+AI loses: 3665
+Draws: 900
+Performance: 0.54
+###################################
+
+##################Statistics################## 
+Total Plays: 20000
+AI wins: 10981
+AI loses: 7212
+Draws: 1807
+Performance: 0.55
+###################################
+
+##################Statistics################## 
+Total Plays: 10000
+AI wins: 6829
+AI loses: 2643
+Draws: 528
+Performance: 0.68
+###################################
+
+##################Statistics################## 
+Total Plays: 20000
+AI wins: 13857
+AI loses: 5140
+Draws: 1003
+Performance: 0.69
+###################################
+
+##################Statistics################## 
+Total Plays: 30000
+AI wins: 20927
+AI loses: 7607
+Draws: 1466
+Performance: 0.70
+###################################
+
+##################Statistics################## 
+Total Plays: 40000
+AI wins: 28000
+AI loses: 10035
+Draws: 1965
+Performance: 0.70
+###################################
+
+##################Statistics################## 
+Total Plays: 50000
+AI wins: 35079
+AI loses: 12482
+Draws: 2439
+Performance: 0.70
+###################################
+
+##################Statistics################## 
+Total Plays: 60000
+AI wins: 42132
+AI loses: 14958
+Draws: 2910
+Performance: 0.70
+###################################
+
+##################Statistics################## 
+Total Plays: 70000
+AI wins: 49196
+AI loses: 17418
+Draws: 3386
+Performance: 0.70
+###################################
+
+##################Statistics################## 
+Total Plays: 80000
+AI wins: 56267
+AI loses: 19889
+Draws: 3844
+Performance: 0.70
+###################################

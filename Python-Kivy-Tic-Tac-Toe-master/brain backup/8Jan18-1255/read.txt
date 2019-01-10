@@ -1,0 +1,4 @@
+contains 2 hidden layers of 250 neurons each: uses Relu
+Last layer uses Sigmoid
+Temperature=1
+27 inputs having values denoting opponent holds the place, empty place and AI holds the place respectively

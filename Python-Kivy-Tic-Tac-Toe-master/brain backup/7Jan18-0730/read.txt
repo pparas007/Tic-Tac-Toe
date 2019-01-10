@@ -1,0 +1,4 @@
+contains 2 hidden layers of 30 neurons each: uses Relu
+Last layer uses Sigmoid
+Temperature=33
+9 inputs having values -1,0,1
